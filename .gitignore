@@ -1,0 +1,6 @@
+/venv2/*
+/venv/*
+/PypyVenv/*
+/.idea/*
+/__pycache__/*
+*.csv
